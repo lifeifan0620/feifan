@@ -1,2 +1,2 @@
--- branch2 version: intentionally different spark sql to trigger conflict
-SELECT 'branch2' AS source, 2 AS spark_version;
+-- base version: shared baseline for no-conflict merge/rebase
+SELECT 'base' AS source, 0 AS spark_version;
