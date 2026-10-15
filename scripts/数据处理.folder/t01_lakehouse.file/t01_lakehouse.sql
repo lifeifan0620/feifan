@@ -1,2 +1,2 @@
--- abort-merge diverge B: git_test_2 side
-SELECT 'abortm_B' AS source, 6 AS version;
+-- abort-rebase diverge B: git_test_2 side
+SELECT 'abortr_B' AS source, 8 AS version;
