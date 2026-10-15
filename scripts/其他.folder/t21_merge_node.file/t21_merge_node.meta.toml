@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "t21_merge_node"
+dataFilePath = "其他"
+dataFileType = 20
+# fileFlowStatus: 待保存(草稿)
+fileFlowStatus = 10
+fileDescription = "归并节点 - git test T21"
+branchKey = "bb3ce647-776f-4d8d-a55b-fc943186175a"

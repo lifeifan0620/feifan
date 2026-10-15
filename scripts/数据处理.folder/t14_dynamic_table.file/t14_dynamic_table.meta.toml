@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "t14_dynamic_table"
+dataFilePath = "数据处理"
+dataFileType = 16
+# fileFlowStatus: 待提交(已保存)
+fileFlowStatus = 20
+fileDescription = "动态表 - git test T14"
+branchKey = "dd07c115-cb70-4c90-92f2-bfe7089bd847"

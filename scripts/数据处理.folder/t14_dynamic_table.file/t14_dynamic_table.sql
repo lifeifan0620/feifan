@@ -1,0 +1,1 @@
+{"sqlContent":"-- 动态表\nselect 1 as id,'test' as name;","vcCode":"DEFAULT","schema":"public","tableName":"dt_test_table","sqlDdl":"CREATE OR REPLACE DYNAMIC TABLE `public`.`dt_test_table`(`id` ,`name` ) AS select 1 as id,'test' as name;","advancedParamStr":[]}

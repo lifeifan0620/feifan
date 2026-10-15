@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "t09_realtime_int"
+dataFilePath = "数据同步"
+dataFileType = 14
+# fileFlowStatus: 待提交(已保存)
+fileFlowStatus = 20
+fileDescription = "实时数据集成 - git test T09"
+branchKey = "38328684-8bb6-4868-910c-a296a1660b42"

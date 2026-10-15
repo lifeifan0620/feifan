@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "t22_notebook"
+dataFilePath = "数据处理"
+dataFileType = 18
+# fileFlowStatus: 待保存(草稿)
+fileFlowStatus = 10
+fileDescription = "Notebook（不纳入git管理） - git test T22"
+branchKey = "03e94117-c972-4200-a928-0c60fa2cf86b"
