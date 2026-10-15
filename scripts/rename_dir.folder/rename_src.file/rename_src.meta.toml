@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "rename_src"
+dataFilePath = "rename_dir"
+dataFileType = 4
+# fileFlowStatus: 待提交(已保存)
+fileFlowStatus = 20
+fileDescription = "rename probe"
+branchKey = "dc68f287-ea84-418b-8a12-734b578c6b28"
