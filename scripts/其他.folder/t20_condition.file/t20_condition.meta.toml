@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "t20_condition"
+dataFilePath = "其他"
+dataFileType = 19
+# fileFlowStatus: 待保存(草稿)
+fileFlowStatus = 10
+fileDescription = "条件分支节点 - git test T20"
+branchKey = "a00497e3-1887-43d0-a5ae-0fed6ec67fe1"

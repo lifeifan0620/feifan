@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "t11_cdc"
+dataFilePath = "数据同步"
+dataFileType = 280
+# fileFlowStatus: 待提交(已保存)
+fileFlowStatus = 20
+fileDescription = ""
+branchKey = "db1f455b-a98b-48df-b4e6-55ed4c450d03"

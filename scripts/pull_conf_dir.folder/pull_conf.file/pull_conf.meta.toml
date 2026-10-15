@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "pull_conf"
+dataFilePath = "pull_conf_dir"
+dataFileType = 4
+# fileFlowStatus: 待提交(已保存)
+fileFlowStatus = 20
+fileDescription = "pull conflict probe (local)"
+branchKey = "db31927c-5247-4014-a820-cdebba837189"
