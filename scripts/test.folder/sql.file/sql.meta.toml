@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "sql"
+dataFilePath = "test"
+dataFileType = 4
+# fileFlowStatus: 待提交(已保存)
+fileFlowStatus = 20
+fileDescription = ""
+branchKey = "b8c93775-b4a2-48ee-81c9-a93de4a24351"
