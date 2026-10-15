@@ -5,3 +5,4 @@ dataFileType = 3
 # fileFlowStatus: 待保存(草稿)
 fileFlowStatus = 10
 fileDescription = "Hive SQL - git test T03"
+branchKey = "08615d03-f025-41c8-861f-a156a49cdcd8"

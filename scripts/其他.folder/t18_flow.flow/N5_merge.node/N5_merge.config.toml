@@ -33,5 +33,5 @@ useFlowVC = true
 # === 连接参数 ===
 
 [connectionParam]
-workspaceName = "git_test_2011"
+workspaceName = "git_test_102"
 schemaName = "public"

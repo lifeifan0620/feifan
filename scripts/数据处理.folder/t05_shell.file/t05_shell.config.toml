@@ -27,9 +27,9 @@ taskPriority = 1
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_2011"
+workspaceName = "git_test_102"
 schemaName = "public"
-dsName = "LAKEHOUSE_git_test_2011"
+dsName = "LAKEHOUSE_git_test_102"
 
 
 [[fileInputs]]

@@ -2,6 +2,7 @@
 dataFileName = "pull_clean"
 dataFilePath = "pull_clean_dir"
 dataFileType = 4
-# fileFlowStatus: 待提交(已保存)
-fileFlowStatus = 20
+# fileFlowStatus: 待保存(草稿)
+fileFlowStatus = 10
 fileDescription = "pull clean-pull probe"
+branchKey = "1f5184c1-ae95-4bd0-a302-ab5beb5322f2"

@@ -35,10 +35,9 @@ useFlowVC = true
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_2011"
+workspaceName = "git_test_102"
 schemaName = "app_db"
 dsType = 5
-datasourceName = "mysql84"
 
 
 [[flowNodeInputs]]

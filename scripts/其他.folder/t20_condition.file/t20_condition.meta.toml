@@ -5,3 +5,4 @@ dataFileType = 19
 # fileFlowStatus: 待保存(草稿)
 fileFlowStatus = 10
 fileDescription = "条件分支节点 - git test T20"
+branchKey = "fe72d619-b955-435d-97af-dd3b019ae913"

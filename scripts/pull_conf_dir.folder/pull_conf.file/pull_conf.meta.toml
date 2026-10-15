@@ -2,6 +2,7 @@
 dataFileName = "pull_conf"
 dataFilePath = "pull_conf_dir"
 dataFileType = 4
-# fileFlowStatus: 待提交(已保存)
-fileFlowStatus = 20
+# fileFlowStatus: 待保存(草稿)
+fileFlowStatus = 10
 fileDescription = "pull conflict probe"
+branchKey = "056b0c86-9a51-4dc9-a1d2-343df996084a"
