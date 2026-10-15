@@ -1,2 +1,2 @@
--- rename/modify conflict: git_test_2 modifies t01
-SELECT 'rename_modify_B' AS marker, 9 AS v;
+-- rebase diverge B: git_test_2 side to trigger rebase conflict
+SELECT 'rebase_B' AS source, 4 AS version;

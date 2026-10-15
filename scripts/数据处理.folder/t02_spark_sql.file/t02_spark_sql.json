@@ -1,0 +1,2 @@
+-- base version: shared baseline for no-conflict merge/rebase
+SELECT 'base' AS source, 0 AS spark_version;
