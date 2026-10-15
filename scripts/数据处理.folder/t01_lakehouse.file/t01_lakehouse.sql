@@ -1,2 +1,2 @@
--- branch2 version B: modified to trigger conflict 
-SELECT 'branch2_B' AS source, 2 AS version;
+-- rebase diverge B: git_test_2 side to trigger rebase conflict
+SELECT 'rebase_B' AS source, 4 AS version;
