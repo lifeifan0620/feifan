@@ -31,6 +31,6 @@ configProperties = "{\"timeoutConfig\":{\"dependencyTimeout\":3,\"dependencyTime
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_1008"
+workspaceName = "git_test_rn"
 etlVcCode = "DEFAULT"
 schemaName = "public"

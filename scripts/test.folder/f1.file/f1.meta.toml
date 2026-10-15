@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "f1"
+dataFilePath = "test"
+dataFileType = 4
+# fileFlowStatus: 待提交(已保存)
+fileFlowStatus = 20
+fileDescription = ""
+branchKey = "343f222a-8286-4644-a82b-ee96231bb33d"

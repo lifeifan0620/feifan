@@ -31,7 +31,7 @@ configProperties = "{\"timeoutConfig\":{\"dependencyTimeout\":3,\"dependencyTime
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_1008"
+workspaceName = "git_test_rn"
 schemaName = "public"
 
 
@@ -56,3 +56,15 @@ dataFilePath = "test"
 dependencyFileName = "file_2"
 dependencyFilePath = "test"
 dependencyBranchKey = "7a3c6088-3b5d-408b-a9f8-35267c42cd52"
+
+[[fileInputs]]
+depStrategy = 0
+offsetType = 0
+offsetValue = 0
+parseType = 2
+dataFileName = "merge_1"
+dataFilePath = "test"
+dependencyProjectName = "test1011"
+dependencyFileName = "humanlize_for_test"
+dependencyFilePath = "for_env_test"
+dependencyBranchKey = "88ffab57-a661-43d6-a802-83bfc32ca6ca"

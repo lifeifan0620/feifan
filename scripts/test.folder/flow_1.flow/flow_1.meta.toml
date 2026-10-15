@@ -2,8 +2,8 @@
 dataFileName = "flow_1"
 dataFilePath = "test"
 dataFileType = 500
-# fileFlowStatus: 待提交(已保存)
-fileFlowStatus = 20
+# fileFlowStatus: 待保存(草稿)
+fileFlowStatus = 10
 fileDescription = ""
 groupName = "group_1"
 branchKey = "370f6857-6845-43ef-9ebb-c981e185ea15"
