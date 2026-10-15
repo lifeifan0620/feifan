@@ -1,2 +1,2 @@
--- strat mix: git_test_2 t01
-SELECT 'mix_theirs_B1' AS source, 23 AS version;
+-- strat content: git_test_2 side
+SELECT 'content_base_B' AS source, 32 AS version;
