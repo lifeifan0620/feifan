@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "file_1"
+dataFilePath = "test"
+dataFileType = 4
+# fileFlowStatus: 已提交有修改
+fileFlowStatus = 80
+fileDescription = ""
+branchKey = "c6fa5095-ece8-4860-8059-7e18511de711"

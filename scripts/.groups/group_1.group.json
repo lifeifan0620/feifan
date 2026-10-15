@@ -1,0 +1,15 @@
+{
+	"members":[
+		{
+			"branchKey":"370f6857-6845-43ef-9ebb-c981e185ea15",
+			"dataFileName":"flow_1",
+			"dataFilePath":"test"
+		},
+		{
+			"branchKey":"5cb16b67-cb15-4724-9d73-bbf04873855e",
+			"dataFileName":"flow_2",
+			"dataFilePath":"test"
+		}
+	],
+	"name":"group_1"
+}

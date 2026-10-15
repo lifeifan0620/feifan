@@ -1,0 +1,58 @@
+# === 调度配置 ===
+# scheduleConfigType: 正常调度
+scheduleConfigType = 1
+# scheduleType: 周期调度
+scheduleType = 1
+scheduleRateType = 3
+# scheduleCreatedType: T 日
+scheduleCreatedType = 2
+cronExpress = "0 00 00 * * ? *"
+executeTimeout = 0
+executeTimeoutUnit = "m"
+activeStartTime = "2026-10-11 16:00:00"
+activeEndTime = "2098-12-31 16:00:00"
+# === 重试配置 ===
+retryCount = 1
+retryIntervalTime = 1
+retryIntervalTimeUnit = "m"
+# === 依赖与优先级 ===
+# rerunProperty: 运行成功或失败后皆可重跑
+rerunProperty = 1
+# selfDependsJob: 否
+selfDependsJob = 0
+# triggerType: 时间触发
+triggerType = 1
+# taskPriority: P0
+taskPriority = 1
+# === 参数 ===
+configProperties = "{\"timeoutConfig\":{\"dependencyTimeout\":3,\"dependencyTimeoutUnit\":\"d\"},\"extConfig\":{},\"enableAutoMv\":false}"
+
+# === 连接参数 ===
+
+[connectionParam]
+adhocVcCode = "DEFAULT"
+workspaceName = "git_test_1008"
+schemaName = "public"
+
+
+[[fileInputs]]
+depStrategy = 0
+offsetType = 0
+offsetValue = 0
+parseType = 2
+dataFileName = "merge_1"
+dataFilePath = "test"
+dependencyFileName = "flow_2"
+dependencyFilePath = "test"
+dependencyBranchKey = "5cb16b67-cb15-4724-9d73-bbf04873855e"
+
+[[fileInputs]]
+depStrategy = 0
+offsetType = 0
+offsetValue = 0
+parseType = 2
+dataFileName = "merge_1"
+dataFilePath = "test"
+dependencyFileName = "file_2"
+dependencyFilePath = "test"
+dependencyBranchKey = "7a3c6088-3b5d-408b-a9f8-35267c42cd52"
