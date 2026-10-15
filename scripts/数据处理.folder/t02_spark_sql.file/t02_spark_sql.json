@@ -1,2 +1,2 @@
--- strat mix: git_test_1 t02
-SELECT 'mix_ours_A2' AS spark_source, 22 AS spark_version;
+-- strat mix: git_test_2 t02
+SELECT 'mix_theirs_B2' AS spark_source, 24 AS spark_version;
