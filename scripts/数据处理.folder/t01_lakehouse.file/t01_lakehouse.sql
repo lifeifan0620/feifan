@@ -1,2 +1,2 @@
--- abort-merge diverge B: git_test_2 side
-SELECT 'abortm_B' AS source, 6 AS version;
+-- strat ours: git_test_2 side
+SELECT 'ours_lose_B' AS source, 12 AS version;
