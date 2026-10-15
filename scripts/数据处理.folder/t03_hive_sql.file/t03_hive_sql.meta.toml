@@ -2,7 +2,7 @@
 dataFileName = "t03_hive_sql"
 dataFilePath = "数据处理"
 dataFileType = 3
-# fileFlowStatus: 待保存(草稿)
-fileFlowStatus = 10
+# fileFlowStatus: 待提交(已保存)
+fileFlowStatus = 20
 fileDescription = "Hive SQL - git test T03"
 branchKey = "cc9773b4-2c73-4813-883d-bd21d044239c"
