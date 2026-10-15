@@ -1,6 +1,6 @@
 # === 文件元数据 ===
 dataFileName = "move_probe"
-dataFilePath = "move_src_dir"
+dataFilePath = "move_dst_dir"
 dataFileType = 4
 # fileFlowStatus: 待提交(已保存)
 fileFlowStatus = 20
