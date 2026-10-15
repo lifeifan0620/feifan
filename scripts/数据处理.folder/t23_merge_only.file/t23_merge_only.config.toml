@@ -27,7 +27,7 @@ taskPriority = 1
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_202"
+workspaceName = "git_test_201"
 etlVcCode = "DEFAULT"
 schemaName = "public"
 
@@ -39,7 +39,6 @@ offsetValue = 0
 parseType = 1
 dataFileName = "t23_merge_only"
 dataFilePath = "数据处理"
-dependencyProjectName = "git_test_201"
-dependencyFileName = "t01_lakehouse"
+dependencyFileName = "t01_ren"
 dependencyFilePath = "数据处理"
-dependencyBranchKey = "838a34b9-35d2-49f2-8fd6-5021e51d75ea"
+dependencyBranchKey = "d1e1b293-9705-4514-ade4-5962b31dfdd8"
