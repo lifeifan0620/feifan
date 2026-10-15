@@ -28,7 +28,7 @@ extendConfigs = "{\"jarPath\":\"hdfs:///jars/test.jar\",\"mainClass\":\"com.exam
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_2011"
 etlVcCode = "DEFAULT"
 schemaName = "public"
 
@@ -42,4 +42,4 @@ dataFileName = "t15_spark_jar"
 dataFilePath = "数据处理"
 dependencyFileName = "t10_multi_offline"
 dependencyFilePath = "数据同步"
-dependencyBranchKey = "7c2a1e66-60fa-4c91-b65a-40374d698a77"
+dependencyBranchKey = "e053e50b-ae9c-4dfa-af69-a49f42392e13"

@@ -27,7 +27,7 @@ taskPriority = 1
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_2011"
 schemaName = "public"
 
 
@@ -40,4 +40,4 @@ dataFileName = "t04_jdbc_sql"
 dataFilePath = "数据处理"
 dependencyFileName = "t03_hive_sql"
 dependencyFilePath = "数据处理"
-dependencyBranchKey = "2de617fc-d8ba-40d2-8332-93eff4c1e69f"
+dependencyBranchKey = "08615d03-f025-41c8-861f-a156a49cdcd8"

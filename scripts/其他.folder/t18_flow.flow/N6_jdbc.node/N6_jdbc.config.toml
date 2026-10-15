@@ -35,7 +35,7 @@ useFlowVC = true
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_2011"
 schemaName = "app_db"
 dsType = 5
 datasourceName = "mysql84"

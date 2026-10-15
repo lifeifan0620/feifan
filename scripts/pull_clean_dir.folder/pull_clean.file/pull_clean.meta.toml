@@ -1,0 +1,7 @@
+# === 文件元数据 ===
+dataFileName = "pull_clean"
+dataFilePath = "pull_clean_dir"
+dataFileType = 4
+# fileFlowStatus: 待提交(已保存)
+fileFlowStatus = 20
+fileDescription = "pull clean-pull probe"

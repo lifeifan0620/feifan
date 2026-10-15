@@ -27,9 +27,9 @@ taskPriority = 1
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_2011"
 schemaName = "public"
-dsName = "LAKEHOUSE_git_test_201"
+dsName = "LAKEHOUSE_git_test_2011"
 
 
 [[fileInputs]]
@@ -41,4 +41,4 @@ dataFileName = "t07_python2"
 dataFilePath = "数据处理"
 dependencyFileName = "t05_shell"
 dependencyFilePath = "数据处理"
-dependencyBranchKey = "18a591bf-1d79-4217-a695-715db7d14170"
+dependencyBranchKey = "bb5668a6-0190-43b7-95b0-ccfcd3295b39"

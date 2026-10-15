@@ -5,4 +5,3 @@ dataFileType = 301
 # fileFlowStatus: 待保存(草稿)
 fileFlowStatus = 10
 fileDescription = "Databricks Notebook - git test T17"
-branchKey = "604e22c7-93e8-415a-8f1f-5db6e7caacc0"

@@ -27,21 +27,10 @@ taskPriority = 1
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_2011"
 schemaName = "public"
-dsName = "LAKEHOUSE_git_test_201"
+dsName = "LAKEHOUSE_git_test_2011"
 
-
-[[fileInputs]]
-depStrategy = 0
-offsetType = 0
-offsetValue = 0
-parseType = 1
-dataFileName = "t05_shell"
-dataFilePath = "数据处理"
-dependencyFileName = "t02_spark_sql"
-dependencyFilePath = "数据处理"
-dependencyBranchKey = "5b5a62fe-669d-4d42-8d94-370101134934"
 
 [[fileInputs]]
 depStrategy = 0
@@ -52,4 +41,15 @@ dataFileName = "t05_shell"
 dataFilePath = "数据处理"
 dependencyFileName = "t04_jdbc_sql"
 dependencyFilePath = "数据处理"
-dependencyBranchKey = "e280cb2d-0772-44dd-adbf-081204508c2e"
+dependencyBranchKey = "5601265f-e0bf-4c0f-8f56-716fec9d129f"
+
+[[fileInputs]]
+depStrategy = 0
+offsetType = 0
+offsetValue = 0
+parseType = 1
+dataFileName = "t05_shell"
+dataFilePath = "数据处理"
+dependencyFileName = "t02_spark_sql"
+dependencyFilePath = "数据处理"
+dependencyBranchKey = "d9144b45-fd56-4554-a37d-b4c4eac4ab97"

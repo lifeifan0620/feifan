@@ -27,7 +27,7 @@ taskPriority = 1
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_2011"
 schemaName = "public"
 
 
@@ -38,9 +38,20 @@ offsetValue = 0
 parseType = 1
 dataFileName = "t16_databricks_sql"
 dataFilePath = "数据处理"
+dependencyFileName = "t15_spark_jar"
+dependencyFilePath = "数据处理"
+dependencyBranchKey = "2f7706ef-3c87-4701-af42-d510f6fd7d29"
+
+[[fileInputs]]
+depStrategy = 0
+offsetType = 0
+offsetValue = 0
+parseType = 1
+dataFileName = "t16_databricks_sql"
+dataFilePath = "数据处理"
 dependencyFileName = "t14_dynamic_table"
 dependencyFilePath = "数据处理"
-dependencyBranchKey = "0cb13a01-4565-43e8-adee-3f473f96fbe6"
+dependencyBranchKey = "5b46496c-14db-496f-aa88-0f8668e0c2c7"
 
 [[fileInputs]]
 depStrategy = 0
@@ -51,15 +62,4 @@ dataFileName = "t16_databricks_sql"
 dataFilePath = "数据处理"
 dependencyFileName = "t17_databricks_nb"
 dependencyFilePath = "数据处理"
-dependencyBranchKey = "604e22c7-93e8-415a-8f1f-5db6e7caacc0"
-
-[[fileInputs]]
-depStrategy = 0
-offsetType = 0
-offsetValue = 0
-parseType = 1
-dataFileName = "t16_databricks_sql"
-dataFilePath = "数据处理"
-dependencyFileName = "t15_spark_jar"
-dependencyFilePath = "数据处理"
-dependencyBranchKey = "f278d44e-cdec-48b3-99f8-17413caa7e31"
+dependencyBranchKey = "5f2591ac-53c8-48d8-800a-aebc3e09eba6"

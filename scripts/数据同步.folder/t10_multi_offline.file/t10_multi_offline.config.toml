@@ -27,7 +27,7 @@ taskPriority = 1
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_2011"
 schemaName = "public"
 
 
@@ -40,4 +40,4 @@ dataFileName = "t10_multi_offline"
 dataFilePath = "数据同步"
 dependencyFileName = "t08_offline_int"
 dependencyFilePath = "数据同步"
-dependencyBranchKey = "96592ef3-4eff-425e-bb54-9595913d47d7"
+dependencyBranchKey = "1849da00-24cb-4401-b8bf-0a85e6d22163"
