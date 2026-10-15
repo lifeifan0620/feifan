@@ -1,2 +1,2 @@
--- abort-rebase diverge B: git_test_2 side
-SELECT 'abortr_B' AS source, 8 AS version;
+-- strat ours: git_test_2 side
+SELECT 'ours_lose_B' AS source, 12 AS version;
