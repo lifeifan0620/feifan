@@ -1,8 +1,0 @@
-# === 文件元数据 ===
-dataFileName = "t02_g2ren"
-dataFilePath = "数据处理"
-dataFileType = 2
-# fileFlowStatus: 待提交(已保存)
-fileFlowStatus = 20
-fileDescription = "Spark SQL - git test T02 branch2 (conflict source)"
-branchKey = "d091529c-fd9d-4a06-a617-e62f711247c0"

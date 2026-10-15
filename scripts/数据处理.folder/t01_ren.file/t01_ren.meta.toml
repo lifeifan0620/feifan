@@ -1,8 +1,0 @@
-# === 文件元数据 ===
-dataFileName = "t01_ren"
-dataFilePath = "数据处理"
-dataFileType = 4
-# fileFlowStatus: 待提交(已保存)
-fileFlowStatus = 20
-fileDescription = "LakeHouse SQL - git test T01"
-branchKey = "d1e1b293-9705-4514-ade4-5962b31dfdd8"
