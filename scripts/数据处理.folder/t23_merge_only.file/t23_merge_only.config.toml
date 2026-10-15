@@ -40,6 +40,6 @@ parseType = 1
 dataFileName = "t23_merge_only"
 dataFilePath = "数据处理"
 dependencyProjectName = "git_test_201"
-dependencyFileName = "t01_lakehouse"
+dependencyFileName = "t01_ren"
 dependencyFilePath = "数据处理"
 dependencyBranchKey = "838a34b9-35d2-49f2-8fd6-5021e51d75ea"
