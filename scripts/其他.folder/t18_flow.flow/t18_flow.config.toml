@@ -29,5 +29,5 @@ outputParam = "[{\"description\":\"\",\"encrypt\":false,\"ignore\":false,\"param
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_2011"
 schemaName = "public"

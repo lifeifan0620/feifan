@@ -30,7 +30,7 @@ extendConfigs = "{\"subFileId\":\"13814339\",\"maxLoopCount\":128,\"dependencyFi
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_2011"
 schemaName = "public"
 
 

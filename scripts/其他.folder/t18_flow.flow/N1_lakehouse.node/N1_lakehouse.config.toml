@@ -34,6 +34,6 @@ useFlowVC = true
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_2011"
 etlVcCode = "DEFAULT"
 schemaName = "public"

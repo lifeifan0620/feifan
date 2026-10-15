@@ -2,7 +2,7 @@
 dataFileName = "t12_cdc_rt"
 dataFilePath = "数据同步"
 dataFileType = 281
-# fileFlowStatus: 待提交(已保存)
-fileFlowStatus = 20
+# fileFlowStatus: 待保存(草稿)
+fileFlowStatus = 10
 fileDescription = "多表实时同步 - git test T12"
 branchKey = "63dc56fd-b0e5-4d29-aeaf-9e838446bae1"

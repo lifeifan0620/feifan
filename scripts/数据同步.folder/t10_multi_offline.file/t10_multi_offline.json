@@ -56,8 +56,8 @@
 	"sourceConnection":{
 		"datasource":[
 			{
-				"datasourceName":"mysql84",
-				"type":5
+				"type":5,
+				"datasourceName":"mysql84"
 			}
 		],
 		"params":{
