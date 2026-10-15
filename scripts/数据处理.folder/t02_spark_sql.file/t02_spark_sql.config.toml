@@ -27,7 +27,8 @@ taskPriority = 1
 
 [connectionParam]
 adhocVcCode = "DEFAULT"
-workspaceName = "git_test_201"
+workspaceName = "git_test_202"
+etlVcCode = "DEFAULT"
 schemaName = "public"
 
 
@@ -38,6 +39,7 @@ offsetValue = 0
 parseType = 1
 dataFileName = "t02_spark_sql"
 dataFilePath = "数据处理"
+dependencyProjectName = "git_test_201"
 dependencyFileName = "t01_ren"
 dependencyFilePath = "数据处理"
 dependencyBranchKey = "202c9bbe-d485-4211-82e6-32d8c094bce9"
