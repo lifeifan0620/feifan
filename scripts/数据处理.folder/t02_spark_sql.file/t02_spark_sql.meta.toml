@@ -5,8 +5,4 @@ dataFileType = 2
 # fileFlowStatus: 待提交(已保存)
 fileFlowStatus = 20
 fileDescription = ""
-<<<<<<<< HEAD:scripts/数据处理.folder/t02_spark_sql.file/t02_spark_sql.meta.toml
-branchKey = "5b5a62fe-669d-4d42-8d94-370101134934"
-========
 branchKey = "4a1a1665-0c4a-40c2-972d-a4073d684345"
->>>>>>>> origin/git_test_2:scripts/数据处理.folder/t23_merge_only.file/t23_merge_only.meta.toml
