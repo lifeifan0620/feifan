@@ -1,2 +1,2 @@
--- CONTENT_MANUAL_9F manually resolved
-SELECT 'content_manual_9F' AS source, 99 AS version;
+-- strat rb-ours base: git_test_2
+SELECT 'rbours_base_B' AS source, 52 AS version;
