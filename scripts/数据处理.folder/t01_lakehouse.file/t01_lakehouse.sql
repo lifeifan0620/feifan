@@ -1,2 +1,2 @@
--- base version: shared baseline for no-conflict merge/rebase
-SELECT 'base' AS source, 0 AS version;
+-- branch2 version B: modified to trigger conflict 
+SELECT 'branch2_B' AS source, 2 AS version;
