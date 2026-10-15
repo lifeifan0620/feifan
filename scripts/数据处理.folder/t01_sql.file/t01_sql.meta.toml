@@ -1,0 +1,8 @@
+# === 文件元数据 ===
+dataFileName = "t01_sql"
+dataFilePath = "数据处理"
+dataFileType = 4
+# fileFlowStatus: 待保存(草稿)
+fileFlowStatus = 10
+fileDescription = ""
+branchKey = "6baf3153-fcd7-4730-ad37-0b5f5abaa0cb"

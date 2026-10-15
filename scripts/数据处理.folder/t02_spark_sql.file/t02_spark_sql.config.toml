@@ -29,15 +29,3 @@ taskPriority = 1
 adhocVcCode = "DEFAULT"
 workspaceName = "git_test_102"
 schemaName = "public"
-
-
-[[fileInputs]]
-depStrategy = 0
-offsetType = 0
-offsetValue = 0
-parseType = 1
-dataFileName = "t02_spark_sql"
-dataFilePath = "数据处理"
-dependencyFileName = "t01_lakehouse"
-dependencyFilePath = "数据处理"
-dependencyBranchKey = "467fc9d7-796a-42f9-b687-6eaee783452e"

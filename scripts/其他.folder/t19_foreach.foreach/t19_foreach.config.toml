@@ -24,7 +24,7 @@ taskPriority = 1
 # === 参数 ===
 executeParam = "[{\"paramKey\":\"bizDate\",\"paramType\":\"manual\",\"ref\":0,\"encrypt\":false,\"ignore\":false,\"id\":\"param_bizdate\",\"paramValue\":\"$[yyyyMMdd]\"}]"
 outputParam = "[{\"description\":\"\",\"encrypt\":false,\"ignore\":false,\"paramKey\":\"_output\",\"paramType\":\"auto\",\"paramValue\":\"$[output]\"}]"
-extendConfigs = "{\"subFileId\":\"13814413\",\"maxLoopCount\":128,\"dependencyFilePath\":\"数据处理\",\"failStrategy\":\"BLOCKING\",\"parallelism\":1,\"parallelStrategy\":\"SERIAL\",\"nullParamValueHandleStrategy\":\"BE_SUCCESS\",\"dependencyFileName\":\"t01_lakehouse\"}"
+extendConfigs = "{\"subFileId\":\"13814413\",\"dependencyId\":12690009,\"maxLoopCount\":128,\"failStrategy\":\"BLOCKING\",\"parallelism\":1,\"parallelStrategy\":\"SERIAL\",\"nullParamValueHandleStrategy\":\"BE_SUCCESS\"}"
 
 # === 连接参数 ===
 
@@ -32,15 +32,3 @@ extendConfigs = "{\"subFileId\":\"13814413\",\"maxLoopCount\":128,\"dependencyFi
 adhocVcCode = "DEFAULT"
 workspaceName = "git_test_102"
 schemaName = "public"
-
-
-[[fileInputs]]
-depStrategy = 0
-offsetType = 0
-offsetValue = 0
-parseType = 1
-dataFileName = "t19_foreach"
-dataFilePath = "其他"
-dependencyFileName = "t01_lakehouse"
-dependencyFilePath = "数据处理"
-dependencyBranchKey = "467fc9d7-796a-42f9-b687-6eaee783452e"
